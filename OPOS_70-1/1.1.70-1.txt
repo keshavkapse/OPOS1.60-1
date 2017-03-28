@@ -1,3 +1,5 @@
 opos 1.1.70-1
 
 add printer configuration
+
+RU printer 1.1.70-1
